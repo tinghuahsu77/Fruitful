@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "546093011185",
+    "firebase_url": "https://fruitful-convos.firebaseio.com",
+    "project_id": "fruitful-convos",
+    "storage_bucket": "fruitful-convos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546093011185:android:731adfab286d4932285950",
+        "android_client_info": {
+          "package_name": "com.example.fruitful"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546093011185-86jgrcv6f579hjqbnplhsv4j8g2nl6m6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fruitful",
+            "certificate_hash": "9612aabb37283a91fec16499f44168b3fa5e306f"
+          }
+        },
+        {
+          "client_id": "546093011185-ed58j9uv0b2kl2q6sevbgrbmpp118f7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiHQ7ApgGQjOK-8M-0g7zqC-OnKtJH1vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546093011185-ed58j9uv0b2kl2q6sevbgrbmpp118f7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

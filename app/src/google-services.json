@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1044263494316",
+    "firebase_url": "https://fruitville-57e38.firebaseio.com",
+    "project_id": "fruitville-57e38",
+    "storage_bucket": "fruitville-57e38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044263494316:android:3115edbb6ce3be7e17f509",
+        "android_client_info": {
+          "package_name": "com.example.fruitful"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044263494316-14nv3cld3jjrb3q41m3f46u6g9ai85dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_wzjDPaYFet_DxB6LtejhKYrfp7FCGsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044263494316-14nv3cld3jjrb3q41m3f46u6g9ai85dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
